@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Zhang</title>
+  <desc id="desc">AI Infra, LLM Inference, GPU / NPU Kernels</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#e4eaf0" stroke-width="1"/></pattern>
+    <linearGradient id="fade"><stop stop-color="#f6f9fc"/><stop offset="1" stop-color="#edf5f7"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="228" rx="16" fill="url(#fade)" stroke="#d8e2ea"/>
+  <path d="M645 1H943Q959 1 959 17V213Q959 229 943 229H645Z" fill="url(#grid)"/>
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <text x="42" y="48" font-size="12" font-weight="700" letter-spacing="2.2" fill="#177d76">ZHACHAR14H-CELL / OPEN SOURCE</text>
+    <text x="40" y="111" font-size="47" font-weight="700" fill="#172b40">Hi, I'm Zhang<tspan fill="#177d76">.</tspan></text>
+    <text x="43" y="150" font-size="18" fill="#455b70">AI Infra · LLM Inference · GPU / NPU Kernels</text>
+    <text x="43" y="193" font-size="12" font-family="Consolas,monospace" fill="#60778a">profile: compute → validate → optimize</text>
+  </g>
+  <g fill="none" stroke="#177d76" stroke-width="2">
+    <rect x="773" y="66" width="93" height="93" rx="12" fill="#e1f0ee"/>
+    <rect x="793" y="86" width="53" height="53" rx="5"/>
+    <path d="M789 54V66M809 54V66M829 54V66M849 54V66M789 159V171M809 159V171M829 159V171M849 159V171M761 82H773M761 102H773M761 122H773M761 142H773M866 82H878M866 102H878M866 122H878M866 142H878"/>
+    <path d="M806 111L816 121L833 102" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
