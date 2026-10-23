@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Hi, I'm Zhang — AI Infra, LLM Inference, GPU / NPU Kernels" src="assets/header-light.svg" width="100%">
-</picture>
-
 **Making inference faster, and checking that it stays correct.**
 
 NVIDIA Blackwell / DGX Spark · Ascend · Open Source
