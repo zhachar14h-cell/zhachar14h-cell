@@ -11,26 +11,20 @@ NVIDIA Blackwell / DGX Spark · Ascend · Open Source
 <br>
 
 <table>
-<tr>
-<td valign="top" width="50%">
-
-### ⚡ Current Focus
-
-- **LLM inference** — serving paths, backend selection and deployment.
-- **GPU / NPU kernels** — MoE, low-precision compute and linear attention.
-- **Numerical correctness** — reference checks, regression tests and reproducible benchmarks.
-
-</td>
-<td valign="top" width="50%">
-
-### 🌱 Open Source
-
-**[FlashQLA contributor](https://github.com/QwenLM/FlashQLA/pull/33)** — merged support for NVIDIA GB10 / SM121 using the SM120 kernels.
-
-Further pull requests span **FlashInfer, SGLang, Atlas, DeepInfer and Strata**, from inference optimizations to hardware compatibility and validation.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Current Focus</h3>
+      <p><strong>LLM inference</strong><br>Serving paths, backend selection and deployment.</p>
+      <p><strong>GPU / NPU kernels</strong><br>MoE, low-precision compute and linear attention.</p>
+      <p><strong>Numerical correctness</strong><br>Reference checks, regression tests and reproducible benchmarks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Open Source</h3>
+      <p><strong><a href="https://github.com/QwenLM/FlashQLA/pull/33">FlashQLA contributor</a></strong><br>Merged support for NVIDIA GB10 / SM121 using the SM120 kernels.</p>
+      <p><strong>Further pull requests</strong><br>FlashInfer · SGLang · Atlas · DeepInfer · Strata</p>
+      <p>Inference optimizations, hardware compatibility and validation.</p>
+    </td>
+  </tr>
 </table>
 
 ### 🛠 Working With
