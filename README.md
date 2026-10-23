@@ -13,13 +13,13 @@ NVIDIA Blackwell / DGX Spark · Ascend · Open Source
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Current Focus</h3>
+      <p><a name="-current-focus"></a><strong>⚡ Current Focus</strong>&nbsp; <a href="#-current-focus" title="Link to Current Focus">🔗</a></p>
       <p><strong>LLM inference</strong><br>Serving paths, backend selection and deployment.</p>
       <p><strong>GPU / NPU kernels</strong><br>MoE, low-precision compute and linear attention.</p>
       <p><strong>Numerical correctness</strong><br>Reference checks, regression tests and reproducible benchmarks.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 Open Source</h3>
+      <p><a name="-open-source"></a><strong>🌱 Open Source</strong>&nbsp; <a href="#-open-source" title="Link to Open Source">🔗</a></p>
       <p><strong><a href="https://github.com/QwenLM/FlashQLA/pull/33">FlashQLA contributor</a></strong><br>Merged support for NVIDIA GB10 / SM121 using the SM120 kernels.</p>
       <p><strong>Further pull requests</strong><br>FlashInfer · SGLang · Atlas · DeepInfer · Strata</p>
       <p>Inference optimizations, hardware compatibility and validation.</p>
